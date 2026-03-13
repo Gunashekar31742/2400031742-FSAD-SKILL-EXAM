@@ -1,0 +1,8 @@
+.m2/
+target/
+apache-maven-3.9.9/
+*.zip
+*.log
+.cp.txt
+data/*.mv.db
+data/*.trace.db
